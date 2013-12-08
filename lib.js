@@ -4,13 +4,16 @@ var wifiNames = ['Wi Believe I Can Fi',
                  'Bill Wi, the Science Fi',
                  'Hide Yo Kids Hide Yo Wi-Fi',
                  'Pretty Fly For a Wi-Fi',
-                 'FBI Van',
+                 'FBI Surveillance Van',
+                 'Winternet Is Coming',
+                 'Router? I Hardly Know Her!',
+                 'New England Clam Rowda',
                  'The LAN Before Time',
                  'It Burns When IP',
                  'The Promised LAN',
                  'Abraham Linksys',
                  'Get Off my WLAN',
-                 'wutangLan',
+                 'Wu-Tang Lan',
                  'Pineapple'];
 var shuffleNames = wifiNames.slice(0)
 var counter = 0;
